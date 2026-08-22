@@ -38,3 +38,6 @@ Projects will be added as I complete them.
 - [ ] Python
 - [ ] Statistics
 - [ ] Real-world Data Analysis Projects
+## Current Learning
+
+- Excel — In Progress
